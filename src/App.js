@@ -42,3 +42,4 @@ export default App;
 // git push --set-upstream origin main
 
 //deneme
+// deneme2
